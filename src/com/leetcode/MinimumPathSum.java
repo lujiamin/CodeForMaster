@@ -2,6 +2,7 @@ package com.leetcode;
 
 /**
  * Created by jamylu on 2018/1/19.
+ * leetcode
  */
 public class MinimumPathSum {
     public static void main(String[] args) {
