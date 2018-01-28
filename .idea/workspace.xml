@@ -36,7 +36,7 @@
       <file leaf-file-name="UniquePathsII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/UniquePathsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="85">
               <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
@@ -48,7 +48,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="68">
-                <caret line="4" column="145" lean-forward="false" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
+                <caret line="4" column="121" lean-forward="false" selection-start-line="4" selection-start-column="121" selection-end-line="4" selection-end-column="121" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -193,8 +193,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -730,7 +730,8 @@
       <workItem from="1516376667798" duration="2144000" />
       <workItem from="1516407074522" duration="1318000" />
       <workItem from="1517146637200" duration="3191000" />
-      <workItem from="1517153849327" duration="120000" />
+      <workItem from="1517153849327" duration="265000" />
+      <workItem from="1517154648631" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="2017.12.29">
       <created>1514520039614</created>
@@ -837,11 +838,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517153174075</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2018.1.28">
+      <created>1517153989359</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1517153989359</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62256000" />
+    <option name="totallyTimeSpent" value="62411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1260,7 +1268,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/UniquePathsII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="85">
           <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
@@ -1270,7 +1278,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="4" column="145" lean-forward="false" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
+            <caret line="4" column="121" lean-forward="false" selection-start-line="4" selection-start-column="121" selection-end-line="4" selection-end-column="121" />
             <folding />
           </first_editor>
           <second_editor />
