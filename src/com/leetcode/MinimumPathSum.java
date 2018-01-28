@@ -2,7 +2,8 @@ package com.leetcode;
 
 /**
  * Created by jamylu on 2018/1/19.
- * leetcode
+ * leetcode064.
+ * 从矩阵左上角到右下角的最短路径。
  */
 public class MinimumPathSum {
     public static void main(String[] args) {
