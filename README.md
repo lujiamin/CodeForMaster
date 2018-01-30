@@ -2,9 +2,9 @@
 ### leetcode  
 | number | title |  
 | - | - |  
-| 001 | [Two Sum]() |
+| 001 | [Two Sum](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/TwoSum.java) |
 | 005 | [Longest Palindromic Substring](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/LongestPalindromicSubstring.java) |  
-| 006 | [ZigZag Conversion]() |  
+| 006 | [ZigZag Conversion](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ZigZagConversion.java) |  
 | 007 | [Reverse Integer](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ReverseInteger.java) |  
 | 009 | [Palindrome Number](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PalindromeNumber.java) |  
 | 011 | [Container  With Most Water](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainerWithMostWater.java) |  
@@ -27,7 +27,7 @@
 | 066 | [Plus One](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PlusOne.java) |  
 | 070 | [Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ClimbingStairs.java) |  
 | 088 | [Merge Sorted Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MergeSortedArray.java) |  
-| 096 | [Unique Binary Search Trees]() |  
+| 096 | [Unique Binary Search Trees](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniqueBinarySearchTrees.java) |  
 | 118 | [Pascal's Triangle](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PascalTriangle.java) |
 | 119 | [Pascal's Triangle II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PascalTriangleII.java) |  
 | 120 | [Triangle](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/Triangle.java) |  
@@ -39,4 +39,4 @@
 | 189 | [Rotate Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/RotateArray.java) |  
 | 217 | [Contains Duplicate](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicate.java) |  
 | 219 | [Contains Duplicate II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicateII.java) |  
-| 746 | [Min Cost Climbing Stairs]() |  
+| 746 | [Min Cost Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MinCostClimbingStairs.java) |  
