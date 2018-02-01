@@ -28,15 +28,19 @@
 | 070 | [Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ClimbingStairs.java) |  
 | 088 | [Merge Sorted Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MergeSortedArray.java) |  
 | 096 | [Unique Binary Search Trees](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniqueBinarySearchTrees.java) |  
+| 115 | []() |
 | 118 | [Pascal's Triangle](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PascalTriangle.java) |
 | 119 | [Pascal's Triangle II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PascalTriangleII.java) |  
 | 120 | [Triangle](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/Triangle.java) |  
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/BestTimeToBuyAndSellStock.java) |  
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/BestTimeToBuyAndSellStockII.java) |  
 | 128 | [Longest Consecutive Sequence](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/LongestConsecutive.java) |
+| 139 | []() |
 | 167 | [Two Sum II - Input array is sorted](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/TwoSumII.java) |  
 | 169 | [Majority Element](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MajorityElement.java) |  
 | 189 | [Rotate Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/RotateArray.java) |  
 | 217 | [Contains Duplicate](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicate.java) |  
 | 219 | [Contains Duplicate II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicateII.java) |  
+| 338 | []() |  
+| 413 | []() |
 | 746 | [Min Cost Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MinCostClimbingStairs.java) |  
