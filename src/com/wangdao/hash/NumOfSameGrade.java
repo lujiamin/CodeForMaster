@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class NumOfSameGrade {
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         // 存在多组测试数据
         while (scanner.hasNext()) {
