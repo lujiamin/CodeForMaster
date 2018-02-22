@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a09267e-2f22-4c2e-999d-0c3231e4309c" name="Default" comment="2018.2.22">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/wangdao/search/StudentInfo.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="1a09267e-2f22-4c2e-999d-0c3231e4309c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/hash/NumOfSameGrade.java" afterPath="$PROJECT_DIR$/src/com/wangdao/hash/NumOfSameGrade.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/hash/NumsOfM.java" afterPath="$PROJECT_DIR$/src/com/wangdao/hash/NumsOfM.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/math/Gcd.java" afterPath="$PROJECT_DIR$/src/com/wangdao/math/Gcd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/math/Prime.java" afterPath="$PROJECT_DIR$/src/com/wangdao/math/Prime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/output/Pattern.java" afterPath="$PROJECT_DIR$/src/com/wangdao/output/Pattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java" afterPath="$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,20 +83,20 @@
       <file leaf-file-name="Pattern.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Trapezoid.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Trapezoid.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <marker date="1519302811575" expanded="true" signature="467:468" ph="{...}" />
+                <marker date="1519303680257" expanded="true" signature="609:610" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MostValue.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MostValue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangdao/greedy/MostValue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
@@ -146,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/leetcode/PascalTriangleII.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/BestTimeToBuyAndSellStockII.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/Triangle.java" />
@@ -184,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/com/wangdao/math/BigNum.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/math/Last3BitsOfPow.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/Output/Pattern.java" />
-        <option value="$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/sort/Student.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/sort/Grades.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/stack/Calculator.java" />
@@ -197,6 +191,8 @@
         <option value="$PROJECT_DIR$/src/com/wangdao/math/RadixConverse.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/hash/NumOfSameGrade.java" />
         <option value="$PROJECT_DIR$/src/com/wangdao/hash/NumsOfM.java" />
+        <option value="$PROJECT_DIR$/src/com/wangdao/output/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java" />
       </list>
     </option>
   </component>
@@ -264,6 +260,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wangdao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ForMaster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ForMaster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangdao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -834,7 +856,7 @@
       <workItem from="1517826966926" duration="1812000" />
       <workItem from="1517898528960" duration="583000" />
       <workItem from="1519019105948" duration="1924000" />
-      <workItem from="1519282776711" duration="2921000" />
+      <workItem from="1519282776711" duration="3117000" />
     </task>
     <task id="LOCAL-00001" summary="2017.12.29">
       <created>1514520039614</created>
@@ -1004,11 +1026,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519303184984</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2018.2.22">
+      <created>1519303493700</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1519303493700</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84102000" />
+    <option name="totallyTimeSpent" value="84298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1417,24 +1446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <marker date="1519302811575" expanded="true" signature="467:468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangdao/date/Days.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1488,6 +1499,24 @@
         <state relative-caret-position="158">
           <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1519303680257" expanded="true" signature="609:610" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
