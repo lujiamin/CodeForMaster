@@ -3,11 +3,12 @@ package com.wangdao.output;
 import java.util.Scanner;
 
 /*
- * 按规则输出图形
+ * 输出图形
  */
 public class Pattern {
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         while (scanner.hasNext()) {
             int n = scanner.nextInt();
