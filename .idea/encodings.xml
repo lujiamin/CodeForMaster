@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/date/Days.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/date/Days.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/greedy/MostValue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/hash/NumOfSameGrade.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/huffman/TotalWeight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/math/BigNum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/math/Gcd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/math/Last3BitsOfPow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/math/Prime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/math/RadixConverse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/output/Pattern.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/output/Trapezoid.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/sort/Grades.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/stack/Calculator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/stack/Parenthes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/tree/BinarySortedTreeTraversal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wangdao/tree/Postorder.java" charset="GBK" />
+  </component>
+</project>
