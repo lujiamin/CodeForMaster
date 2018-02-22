@@ -1,4 +1,4 @@
-package com.wangdao.output;
+package Output;
 
 import java.util.Scanner;
 
