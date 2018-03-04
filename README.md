@@ -46,6 +46,8 @@
 | 189 | [Rotate Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/RotateArray.java) |  
 | 217 | [Contains Duplicate](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicate.java) |  
 | 219 | [Contains Duplicate II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicateII.java) |  
+| 231 | [Pow of Two](src/com/leetcode/PowerOfTwo.java) |
+| 258 | [Add Digits](src/com/leetcode/AddDigits.java) |
 | 338 | [Counting Bits](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/CountingBits.java) |  
 | 413 | [Arithmetic Slices](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ArithmeticSlices.java) |
 | 746 | [Min Cost Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MinCostClimbingStairs.java) |  
