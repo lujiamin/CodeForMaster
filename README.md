@@ -23,12 +23,14 @@
 | 034 | [Search for a Range](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/SearchForARange.java) |  
 | 035 | [Search Insert Position](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/SearchInsertPosition.java) |  
 | 053 | [Maximum Subarray](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MaximumSubArray.java) |  
+| 058 | [Length of Last Word](src/com/leetcode/LengthOfLastWord.java) |
 | 062 | [Unique Paths](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniquePaths.java) |  
 | 063 | [Unique Paths II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniquePathsII.java) |  
 | 064 | [Minimum Path Sum](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MinimumPathSum.java) |  
 | 066 | [Plus One](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/PlusOne.java) |  
 | 067 | [Add Binary](src/com/leetcode/AddBinary.java) |
 | 070 | [Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ClimbingStairs.java) |  
+| 072 | [Edit Distance](src/com/leetcode/EditDistance.java) |
 | 088 | [Merge Sorted Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MergeSortedArray.java) |  
 | 096 | [Unique Binary Search Trees](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniqueBinarySearchTrees.java) |  
 | 100 | [Same Tree](src/com/leetcode/SameTree.java) |
