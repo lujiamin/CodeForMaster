@@ -4,6 +4,7 @@
 | - | - |  
 | 001 | [Two Sum](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/TwoSum.java) |
 | 002 | [Add Two Numbers](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/AddTwoNumbers.java) |
+| 003 | [Longest Substring Without Repeating Characters](src/com/leetcode/LongestSubstringWithoutRepeatingCharacters.java) |
 | 005 | [Longest Palindromic Substring](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/LongestPalindromicSubstring.java) |  
 | 006 | [ZigZag Conversion](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ZigZagConversion.java) |  
 | 007 | [Reverse Integer](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ReverseInteger.java) |  
@@ -32,6 +33,7 @@
 | 070 | [Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ClimbingStairs.java) |  
 | 072 | [Edit Distance](src/com/leetcode/EditDistance.java) |
 | 088 | [Merge Sorted Array](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MergeSortedArray.java) |  
+| 093 | [Restore IP Addresses](src/com/leetcode/RestoreIPAddresses.java) |
 | 096 | [Unique Binary Search Trees](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/UniqueBinarySearchTrees.java) |  
 | 100 | [Same Tree](src/com/leetcode/SameTree.java) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](src/com/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java) |
@@ -41,6 +43,7 @@
 | 120 | [Triangle](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/Triangle.java) |  
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/BestTimeToBuyAndSellStock.java) |  
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/BestTimeToBuyAndSellStockII.java) |  
+| 125 | [ValidPalindrome](src/com/leetcode/ValidPalindrome.java)|
 | 128 | [Longest Consecutive Sequence](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/LongestConsecutive.java) |
 | 139 | [Word Break](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/WordBreak.java) |
 | 167 | [Two Sum II - Input array is sorted](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/TwoSumII.java) |  
