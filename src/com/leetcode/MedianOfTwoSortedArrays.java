@@ -14,8 +14,8 @@ public class MedianOfTwoSortedArrays {
     }
 
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        if (nums1 == null || nums2 == null || nums1.length == 0 || nums2.length == 0)
-            return 0.0;
+//        if (nums1 == null || nums2 == null || nums1.length == 0 || nums2.length == 0)
+//            return 0.0;
         int m = nums1.length;
         int n = nums2.length;
         int l = (m + n + 1) / 2;
