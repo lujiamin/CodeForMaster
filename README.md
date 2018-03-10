@@ -5,6 +5,7 @@
 | 001 | [Two Sum](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/TwoSum.java) |
 | 002 | [Add Two Numbers](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/AddTwoNumbers.java) |
 | 003 | [Longest Substring Without Repeating Characters](src/com/leetcode/LongestSubstringWithoutRepeatingCharacters.java) |
+| 004 | [Median of Two Sorted Arrays](src/com/leetcode/MedianOfTwoSortedArrays.java) |
 | 005 | [Longest Palindromic Substring](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/LongestPalindromicSubstring.java) |  
 | 006 | [ZigZag Conversion](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ZigZagConversion.java) |  
 | 007 | [Reverse Integer](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ReverseInteger.java) |  
@@ -53,6 +54,7 @@
 | 219 | [Contains Duplicate II](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ContainsDuplicateII.java) |  
 | 231 | [Pow of Two](src/com/leetcode/PowerOfTwo.java) |
 | 258 | [Add Digits](src/com/leetcode/AddDigits.java) |
+| 322 | [Coin Change](src/com/leetcode/CoinChange.java) |
 | 338 | [Counting Bits](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/CountingBits.java) |  
 | 413 | [Arithmetic Slices](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/ArithmeticSlices.java) |
 | 746 | [Min Cost Climbing Stairs](https://github.com/lujiamin/CodeForMaster/blob/master/src/com/leetcode/MinCostClimbingStairs.java) |  
