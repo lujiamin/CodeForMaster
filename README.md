@@ -26,7 +26,7 @@
 | 033 | [Search in Rotated Sorted Array](src/com/leetcode/SearchInRotatedSortedArray.java) |  
 | 034 | [Search for a Range](src/com/leetcode/SearchForARange.java) |  
 | 035 | [Search Insert Position](src/com/leetcode/SearchInsertPosition.java) |
-| 039 | [Combination Sum](src/com/leetcode/CombinationSum.java````) |
+| 039 | [Combination Sum](src/com/leetcode/CombinationSum.java) |
 | 043 | [Multiply Strings](src/com/leetcode/MultiplyStrings.java) |
 | 053 | [Maximum Subarray](src/com/leetcode/MaximumSubArray.java) |  
 | 058 | [Length of Last Word](src/com/leetcode/LengthOfLastWord.java) |
@@ -54,6 +54,7 @@
 | 167 | [Two Sum II - Input array is sorted](src/com/leetcode/TwoSumII.java) |  
 | 169 | [Majority Element](src/com/leetcode/MajorityElement.java) |  
 | 189 | [Rotate Array](src/com/leetcode/RotateArray.java) |  
+| 191 | [Number of 1 Bits](src/com/leetcode/NumberOfOneBits.java) |
 | 217 | [Contains Duplicate](src/com/leetcode/ContainsDuplicate.java) |  
 | 219 | [Contains Duplicate II](src/com/leetcode/ContainsDuplicateII.java) |  
 | 231 | [Pow of Two](src/com/leetcode/PowerOfTwo.java) |
