@@ -37,6 +37,7 @@
 | 067 | [Add Binary](src/com/leetcode/AddBinary.java) |
 | 070 | [Climbing Stairs](src/com/leetcode/ClimbingStairs.java) |  
 | 072 | [Edit Distance](src/com/leetcode/EditDistance.java) |
+| 074 | [Search a 2D Matrix](src/com/leetcode/SearchA2DMatrix.java) |
 | 088 | [Merge Sorted Array](src/com/leetcode/MergeSortedArray.java) |  
 | 093 | [Restore IP Addresses](src/com/leetcode/RestoreIPAddresses.java) |
 | 096 | [Unique Binary Search Trees](src/com/leetcode/UniqueBinarySearchTrees.java) |  
@@ -55,9 +56,11 @@
 | 169 | [Majority Element](src/com/leetcode/MajorityElement.java) |  
 | 189 | [Rotate Array](src/com/leetcode/RotateArray.java) |  
 | 191 | [Number of 1 Bits](src/com/leetcode/NumberOfOneBits.java) |
+| 215 | [Kth Largest Element in An Array](src/com/leetcode/KthLargestElementInAnArray.java) |
 | 217 | [Contains Duplicate](src/com/leetcode/ContainsDuplicate.java) |  
 | 219 | [Contains Duplicate II](src/com/leetcode/ContainsDuplicateII.java) |  
 | 231 | [Pow of Two](src/com/leetcode/PowerOfTwo.java) |
+| 240 | [Search a 2D Matrix II](src/com/leetcode/SearchA2DMatrixII.java) |
 | 258 | [Add Digits](src/com/leetcode/AddDigits.java) |
 | 322 | [Coin Change](src/com/leetcode/CoinChange.java) |
 | 338 | [Counting Bits](src/com/leetcode/CountingBits.java) |  
